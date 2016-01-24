@@ -30,7 +30,7 @@
           <properties>
             <owner>Andreas Guther</owner>
             <email>github@guther.net</email>
-            <customVariable>CustomVariable</customVariable>
+            <project.inceptionYear>2016</project.inceptionYear>
           </properties>
           <excludes>
             <exclude>**/README</exclude>
